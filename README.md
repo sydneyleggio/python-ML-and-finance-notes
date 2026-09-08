@@ -1,6 +1,6 @@
-# python-finance-notes
+# python-ML-and-finance-notes
 
-This repo is a space for me to practice applied finance and data analysis in Python. It is not meant to be a polished project or a trading system, just a place to work through common techniques on real market data and get comfortable with the relevant libraries. Each notebook has been cleaned up and documented so it is readable on its own, not just a scratch file.
+This repo is a space for me to practice both machine learning and applied finance and data analysis problems in Python. It is not meant to be a polished project or a trading system, just a place to work through common techniques on real market data and get comfortable with the relevant libraries. Each notebook has been cleaned up and documented so it is readable on its own, not just a scratch file.
 
 ## Notebooks
 
